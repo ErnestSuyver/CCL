@@ -1,0 +1,7 @@
+# Creative Coding Leiden
+
+Creatief coderen betekent spelenderwijs leren omgaan met de computer.
+
+Creative Coding Leiden (CCL) is hét platform voor digitale creativiteit. CCL stimuleert makers, verbindt organisaties en sectoren, inspireert publiek en deelt kennis met hobbyisten en ict-professionals. Bij CCL vind je mogelijkheden voor een eerste verkenning van creative coding, tot verdieping voor de artistieke praktijk van professionals.
+
+CCL komt voort uit een internationale makersbeweging die techniek toegankelijk maakt voor creatieve expressie en bovenal gekenmerkt wordt door haar alternatieve benadering tot technologie. Deze houding is onderzoekend, kritisch, gezamenlijk, open, hands-on en inclusief. De internationale community heeft zich doorontwikkeld tot een unieke en innovatieve makerscultuur, wier principes wij willen delen met de samenleving en willen toepassen op een grote diversiteit aan domeinen.

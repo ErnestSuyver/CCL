@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Creative Coding Leiden
+  # description:
+  keywords: []
+  authors: []
+  github: https://github.com/ErnestSuyver/CCL
+  # bibliography: []
+  thebe: true
+site:
+  template: book-theme
+  title: Creative Coding Leiden
+  logo: images/favicon.ico
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
