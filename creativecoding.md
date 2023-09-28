@@ -4,7 +4,16 @@ To get an idea of the breadth and depth of creative coding - or generative art, 
 
 ## example
 
-This [notebook] gives an example.
+This [notebook](examples.ipynb) gives some examples, such as this one.
+
+:::{figure} #example-1
+:placeholder: images/example-1.png
+:::
+
+<!-- I first had also this -->
+<!-- :name: example-1-Turtle -->
+<!-- but that resulted in TWO pictures being displayed -->
+
 
 ## notebooks
 

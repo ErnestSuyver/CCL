@@ -3,15 +3,20 @@ version: 1
 project:
   title: Creative Coding Leiden
   # description:
-  keywords: []
+  keywords: [digital creativity, make, art, design]
   authors: []
   github: https://github.com/ErnestSuyver/CCL
   # bibliography: []
-  thebe: true
+  thebe:
+    local: true
+    # server: true
+    #   url: http://localhost:8888
+    #   token: test-secret
+    #   kernelName: Python 3 (ipykernel)
 site:
   template: book-theme
   title: Creative Coding Leiden
-  logo: images/favicon.ico
+  logo: images/gemeente-leiden.png
   nav: []
   actions:
     - title: Learn More
