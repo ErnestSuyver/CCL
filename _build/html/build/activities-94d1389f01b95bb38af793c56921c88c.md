@@ -1,0 +1,51 @@
+# Activities
+
+## Context
+
+What is happening with creative coding in Leiden?
+
+Beyond a [course](https://studiegids.universiteitleiden.nl/courses/114062/creative-programming) at Leiden University, not much, it seems. Obviously, this needs to change.
+
+Compare this to Amsterdam, where creative coding regular meet-ups take place, or Utrecht, where _Creative Coding Utrecht_ is organizing a wide variety of activities.
+
+Consider that Leiden is a city with a large and prominent university. A university with an Arts department and close collaboration with KAKB. 
+
+Leiden has an expanding working population and a flowering ecosystem of  innovative organizations, start-ups and growing businesses.
+
+Leiden is full of people, young of age and young of heart, people with vision, drive and creativity.
+
+Leiden _needs_ creative coding.
+
+## Why do it?
+
+Creative coding
+
+- helps people express themselves, take control and make sense
+- teaches important skills such as procedural thinking, coding, and dealing with obstacles
+- opens up a world of form, color, beauty, function, and design
+- is fun to do and to share
+
+## Potential activities
+
+- education (workshops, classes, videos)
+- exhibitions
+- assignments from universities and companies
+- artist in residence
+- data walks
+- open office
+- meetups
+- colabs
+- resources (examples, documentation, Q&A)
+
+## Potential partners
+
+- Ars
+- academievanleiden.nl
+- [Creative Coding Utrecht](https://www.creativecodingutrecht.nl/) and similar organizations in other cities
+- gemeente Leiden
+- Haagweg 4
+- KAKB
+- Makerspace Leiden
+- PLNT
+- Technolab
+- Universiteit Leiden
