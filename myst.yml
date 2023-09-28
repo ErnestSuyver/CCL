@@ -4,7 +4,7 @@ project:
   title: Creative Coding Leiden
   # description:
   keywords: [digital creativity, make, art, design]
-  authors: []
+  authors: Ernest Suyver
   github: https://github.com/ErnestSuyver/CCL
   # bibliography: []
   thebe:
@@ -20,5 +20,5 @@ site:
   nav: []
   actions:
     - title: Learn More
-      url: https://mystmd.org/guide
+      url: mailto:ernestsuyver@gmail.com&subject=CCL
   domains: []
