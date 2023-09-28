@@ -39,12 +39,12 @@ Creative coding
 
 ## Potential partners
 
-- Ars Aemula Naturae
+- Ars
 - academievanleiden.nl
 - [Creative Coding Utrecht](https://www.creativecodingutrecht.nl/) and similar organizations in other cities
 - gemeente Leiden
 - Haagweg 4
-- KABK
+- KAKB
 - Makerspace Leiden
 - PLNT
 - Technolab
