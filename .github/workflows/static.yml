@@ -35,7 +35,7 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Set BASE_URL
         run: |
-          export BASE_URL="/${{ github.event.repository.name }}"
+          export BASE_URL="/${{ github.event.repository.name }}/build"
           echo "BASE_URL=$BASE_URL" >> $GITHUB_ENV
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
