@@ -16,7 +16,9 @@ Have a look at this [page](examples.ipynb) to see some examples of creative code
 <!-- :name: example-1-Turtle -->
 <!-- but that resulted in TWO pictures being displayed -->
 
-<!-- maak hiervan een noot -->
+Or interact with the code by clicking on the badge below.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ErnestSuyver/CCL/HEAD)
 
 ## some resources
 
