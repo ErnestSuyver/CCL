@@ -3,8 +3,8 @@ on:
   push:
     # Runs on pushes targeting the default branch
     branches: [main]
-# env:
-  BASE_URL: 'CCL'
+  env:
+    BASE_URL: '/CCL'
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
