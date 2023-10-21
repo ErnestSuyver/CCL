@@ -7,8 +7,13 @@ project:
   authors: Ernest Suyver
   github: https://github.com/ErnestSuyver/CCL
   # bibliography: []
-  binder: https://mybinder.org/v2/gh/ErnestSuyver/CCL/HEAD
-  thebe: true
+  # binder: https://mybinder.org/v2/gh/ErnestSuyver/CCL/HEAD
+  # thebe: true
+  thebe:
+    binder:
+      url: https://mybinder.org
+      repo: ErnestSuyver/CCL
+      ref: main
     # local: true
     # server: true
     #   url: http://localhost:8888
